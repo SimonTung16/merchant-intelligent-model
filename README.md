@@ -426,8 +426,8 @@ selling_point:{productId}:{scene}:{tone}:{modelVersion}:{promptVersion}:{inputHa
 
 ## 13. 作者
 
-Yusong Dong and his Colleague
+Yusong Dong and his Colleaguers
 
 ## 14. License
 
-请遵循MIT Licens
+请遵循MIT License
